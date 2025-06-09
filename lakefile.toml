@@ -1,0 +1,10 @@
+name = "tf-lean"
+version = "0.1.0"
+defaultTargets = ["tf-lean"]
+
+[[lean_lib]]
+name = "TfLean"
+
+[[lean_exe]]
+name = "tf-lean"
+root = "Main"
