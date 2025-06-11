@@ -3,7 +3,7 @@ version = "0.1.0"
 defaultTargets = ["tf-lean"]
 
 [[lean_lib]]
-name = "TfLean"
+name = "HCL"
 
 [[lean_exe]]
 name = "tf-lean"
